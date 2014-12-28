@@ -10,7 +10,7 @@ Fabookma
 
 ## Licence
 
-[Apache2](https://github.com/meco300/Fabookma/blob/master/LICENCE)
+[Apache2](https://github.com/meco300/Fabookma/blob/master/LICENSE)
 
 ## Author
 
